@@ -8,9 +8,10 @@ Below, you find some general information about creating an environment, and inst
 Tutorial notebooks are available for the following topics: 
 - 20-01-2022: Creating environments, installing packages, cloning a Github repository 
 - 20-01-2022: Analysing COVID-19 numbers using public data 
+- 03-03-2022: From script to program: developing your code
 
 Upcoming: 
-- 03-03-2022: From script to package: developing your code 
+- 14-06-2022: Simulations with SimPy 
 - 03-03-2022: Working with Pandas / DataFrames
 
 ## Useful preparations info
